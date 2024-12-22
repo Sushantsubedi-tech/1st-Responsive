@@ -108,6 +108,9 @@ background-color: royalblue;
     .menu a{
         display:none;
     }
+   .menu i{
+      display:flex;
+   }
   
     .content{
         display: flex;
